@@ -1,0 +1,13 @@
+temp
+target
+.cache
+bigquery_credentials.dat
+*.swp
+*.pyc
+.DS_Store
+dist/
+*.egg-info
+*.json.gz
+classification/classification/models/prod/TEMP
+.ipynb_checkpoints
+train/ssvid_to_vessel_id.csv
